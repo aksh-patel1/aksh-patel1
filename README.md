@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aksh-patel1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-![dev_meme](https://github.com/aksh-patel1/aksh-patel1/assets/63455759/9d3e205b-ca9c-4809-b592-acf1d40ec59c)
+<img src="https://github.com/aksh-patel1/aksh-patel1/assets/63455759/9d3e205b-ca9c-4809-b592-acf1d40ec59c" width="600" height="600">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aksh-patel1&icon=0&color=0)](https://visitcount.itsvg.in)
